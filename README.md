@@ -1,8 +1,9 @@
-# NS3 2021
+# NS3 2022
 
 Git repository containing Wednesday's activity for NS3 School 2022
 
 (Original version Samuel Giuliani https://github.com/sagiuliani/NS3_2020)
+
 (2021 version Fernando Montes https://github.com/Fernando-Montes/NS3_2021)
 
 ## Summary of the lecture
