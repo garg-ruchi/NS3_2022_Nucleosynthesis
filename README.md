@@ -22,8 +22,6 @@ physics properties in the creation of elements.
 
 ## Schedule
 
-Please watch the recorded 30-min lecture before we start
-
 11:00 - 11:45 Lecture
 
 11:45 - 12:00 Splitting up in groups to discuss and form questions about the recorded lecture
